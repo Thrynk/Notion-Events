@@ -1,4 +1,4 @@
 # Notion-Events
 This project aims to capture Notion change events in a page and send them to Apache Kafka.
 
-Part of Copyright (c) 2018 Jamie Alexandre code is reused to debug understand notion api behind the scene. See his [repo](https://github.com/jamalex/notion-py)
+The python code is reused from Jamie Alexandre [repo](https://github.com/jamalex/notion-py). Thanks to his work, it is simpler to understand how to do real-time update with long polling in Notion.
